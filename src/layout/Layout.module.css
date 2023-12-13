@@ -1,0 +1,24 @@
+.container {
+  max-width: 1200px;
+  margin: auto;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  font-size: 22px;
+}
+.title {
+  width: 100%;
+  text-align: center;
+  margin: 1rem auto;
+  color: #f5f8fc;
+}
+.copyright {
+  width: 100%;
+  padding: 1rem 0rem;
+  border-radius: 5px;
+  text-align: center;
+  color: #f5f8fc;
+  margin: 1rem auto;
+  font-size: 14px;
+  background-color: #202942;
+}
